@@ -11,4 +11,4 @@ O que é o **objeto event**, como declarar e acessar ele através do parâmetro 
 - Mais condições:
 A estruturas condicionais **if** e **else** juntas. O operador not equals (!=), operador lógico and (&&) e o valor null.
 
-[Screenshot](images/wallpaper.PNG)
+![Screenshot](images/wallpaper.PNG)
