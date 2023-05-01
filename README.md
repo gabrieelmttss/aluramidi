@@ -1,7 +1,7 @@
 # Acesse o projeto Alura Midi (Musical Instrument Digital Interface) através do link abaixo.
 https://aluramidi-rosy.vercel.app/
 
-Códigos praticados neste projeto:
+**Códigos praticados neste projeto:**
 - Eventos no teclado:
 O que são eventos do teclado e como usá-los: onkeydowne onkeyup. Como adicionar e remover classes em um elemento HTML através do JavaScript, com as funções add e remove do classList.
 
